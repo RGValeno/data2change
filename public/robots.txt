@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: //data2change.com/sitemap.xml
